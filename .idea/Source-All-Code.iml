@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/new_helloapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/new_helloapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/new_helloapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/build" />
+      <excludeFolder url="file://$MODULE_DIR$/new_helloapp1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/new_helloapp1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/new_helloapp1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/maytinhct/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/maytinhct/build" />
+      <excludeFolder url="file://$MODULE_DIR$/maytinhct/.dart_tool" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
